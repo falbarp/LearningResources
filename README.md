@@ -1,2 +1,2 @@
-# LearningResources-
+# LearningResources
 Learning resources for developing 
