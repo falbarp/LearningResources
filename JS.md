@@ -4,6 +4,8 @@
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) Leonardo Maldonado
 - [263 Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) Ryan McDermott
+- [250+ JS Resources to Master Programming 💥 Cheat Sheet](https://dev.to/worldindev/200-js-resources-to-master-programming-3aj6) DevLorenzo
+
 * * *
 -  [Functional Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/) Nahla Davies
 -  [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) Oleksii Trekhleb
