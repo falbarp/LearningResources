@@ -5,6 +5,7 @@
 - [263 Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) Ryan McDermott
 - [250+ JS Resources to Master Programming 💥 Cheat Sheet](https://dev.to/worldindev/200-js-resources-to-master-programming-3aj6) DevLorenzo
+- [JavaScript Cheatsheet for Beginners](https://dev.to/unitybuddy/javascript-cheatsheet-for-beginners-3330) Mr. Unity Buddy
 
 * * *
 -  [Functional Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/) Nahla Davies
