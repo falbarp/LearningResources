@@ -16,3 +16,4 @@
 - [Ultimate Guide to Regular Expressions (RegEx) on JavaScript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript?source=newsletter) Yuri
 - [20 Useful JavaScript Tips &Tricks For Writing Short and Clean Code](https://thecodingcompany.hashnode.dev/20-useful-javascript-tips-andtricks-for-writing-short-and-clean-code?source=newsletter) Ayesha Sahar
 - [20 Killer JavaScript One Liners](https://dev.to/saviomartin/20-killer-javascript-one-liners-94f) Savio Martin
+- [A Half-Hour to Learn JavaScript](https://alexkondov.com/half-hour-to-learn-js/) Alex Kondov
